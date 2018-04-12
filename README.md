@@ -1,2 +1,1 @@
 # test
-echo "cent os"
